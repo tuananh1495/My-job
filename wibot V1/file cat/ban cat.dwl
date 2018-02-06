@@ -1,0 +1,3 @@
+Administrator
+4NNYCWQBW3HKYEF 
+06 Tha´ng Hai 2018  9:59:03 SA

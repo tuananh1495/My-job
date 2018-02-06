@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="C:\Program Files\DATAKIT\CrossManager2017_64bit\schema\dtk_xsl\dtk_171.xsl"?>
+<Log>
+<DtkApiVersion>171</DtkApiVersion>
+<DtkDllVersion>1227</DtkDllVersion>
+<ProductMode>Dtk</ProductMode>
+<InputFormat>INVENTOR</InputFormat>
+<OutputFormat>SOLIDWORKS</OutputFormat>
+<HealingFlag>0</HealingFlag>
+<ConfigFile>C:\Users\Administrator\AppData\Roaming\Datakit\CrossManager\dtkConfig.dtk</ConfigFile>
+<FileName><![CDATA[D:\My job\phuu kien\battery holder and battery\battery-holder-aasize-1-5v-4-1.snapshot.3\Battery Holder.ipt]]></FileName>
+<FileVersion>19</FileVersion>
+<OutPutFileName><![CDATA[D:\My job\CATIA\Battery Holder.sldprt]]></OutPutFileName>
+<OutPutFileSize>183296</OutPutFileSize>
+<bill_of_materials>
+<component_root><path><![CDATA[D:\My job\phuu kien\battery holder and battery\battery-holder-aasize-1-5v-4-1.snapshot.3\Battery Holder.ipt]]></path><type>Part</type><name><![CDATA[Battery Holder]]></name><status>dtkNoError</status><size>522752</size><unit>Inches</unit><version>19</version></component_root>
+</bill_of_materials>
+<components_info>
+<component>
+<path><![CDATA[D:\My job\phuu kien\battery holder and battery\battery-holder-aasize-1-5v-4-1.snapshot.3\Battery Holder.ipt]]></path>
+<name><![CDATA[Battery Holder]]></name>
+</component>
+</components_info>
+<output_files_written>
+<file><path><![CDATA[D:\My job\CATIA\Battery Holder.sldprt]]></path><size>183296</size></file>
+</output_files_written>
+<inventory_writer>
+<output_file>
+<path><![CDATA[D:\My job\CATIA\Battery Holder.sldprt]]></path>
+<inventory>
+<entity><count>1</count><type>12  : BODY</type></entity>
+<entity><count>2</count><type>13  : SHELL</type></entity>
+<entity><count>145</count><type>14  : FACE</type></entity>
+<entity><count>176</count><type>15  : LOOP</type></entity>
+<entity><count>444</count><type>16  : EDGE</type></entity>
+<entity><count>888</count><type>17  : HALFEDGE</type></entity>
+<entity><count>292</count><type>18  : VERTEX</type></entity>
+<entity><count>2</count><type>19  : REGION</type></entity>
+<entity><count>292</count><type>29  : POINT</type></entity>
+<entity><count>324</count><type>30  : LINE</type></entity>
+<entity><count>96</count><type>31  : CIRCLE</type></entity>
+<entity><count>24</count><type>32  : ELLIPSE</type></entity>
+<entity><count>81</count><type>50  : PLANE</type></entity>
+<entity><count>56</count><type>51  : CYLINDER</type></entity>
+<entity><count>8</count><type>52  : CONE</type></entity>
+<entity><count>444</count><type>133 : TRIMMED_CURVE</type></entity>
+<entity><count>3275</count><type>TOTAL</type></entity>
+</inventory>
+</output_file>
+</inventory_writer>
+<configuration>
+<path><![CDATA[C:\Users\Administrator\AppData\Roaming\Datakit\CrossManager\dtkConfig.dtk]]></path>
+<section>
+<name><![CDATA[SW CONF]]></name>
+<config><parameter>MULTI_BODY</parameter><value>1</value></config>
+</section>
+<section>
+<name><![CDATA[TRANSFORMATION ENTITES]]></name>
+<config><parameter>KEEP_ASSEMBLY</parameter><value>1</value></config>
+<config><parameter>BODY_TO_NURBS</parameter><value>0</value></config>
+<config><parameter>EXPLOSE_GROUP</parameter><value>1</value></config>
+<config><parameter>MERGE_BODIES</parameter><value>0</value></config>
+</section>
+<section>
+<name><![CDATA[FILTRAGE DE DOMAINE]]></name>
+<config><parameter>COURBE_LIM_3D</parameter><value>0</value></config>
+<config><parameter>FILAIRE</parameter><value>0</value></config>
+<config><parameter>FDT</parameter><value>0</value></config>
+<config><parameter>FEATURES</parameter><value>1</value></config>
+<config><parameter>META_PARAMETERS</parameter><value>0</value></config>
+<config><parameter>REFERENTIEL</parameter><value>1</value></config>
+<config><parameter>MESH</parameter><value>1</value></config>
+<config><parameter>RENDER_INFOS</parameter><value>1</value></config>
+<config><parameter>MODEL_DISPLAY</parameter><value>0</value></config>
+<config><parameter>DRAW</parameter><value>0</value></config>
+<config><parameter>CONSTRUCT_SOLIDS</parameter><value>1</value></config>
+</section>
+<section>
+<name><![CDATA[MODIFICATION D'ATTRIBUT]]></name>
+<config><parameter>VISIBILITY</parameter><value>-1</value></config>
+<config><parameter>ASM_VISIBILITY</parameter><value>-1</value></config>
+<config><parameter>FDT_VISIBILITY</parameter><value>-1</value></config>
+</section>
+<section>
+<name><![CDATA[DIALOG BOX]]></name>
+<config><parameter>CHOOSE_AXIS</parameter><value>0</value></config>
+<config><parameter>CHOOSE_IN_CATALOG</parameter><value>-1</value></config>
+<config><parameter>CHOOSE_LAYER_FILTER</parameter><value>0</value></config>
+<config><parameter>CHOOSE_IN_ASSEMBLY_TREE</parameter><value>0</value></config>
+</section>
+<section>
+<name><![CDATA[SCISSION FICHIER]]></name>
+<config><parameter>PAR_SOLIDE</parameter><value>0</value></config>
+<config><parameter>PER_CATALOG</parameter><value>0</value></config>
+</section>
+</configuration>
+<Conversion>
+<Start>  11:56:39</Start>
+<End>  11:56:39</End>
+<Duration>0 sec</Duration>
+</Conversion>
+</Log>

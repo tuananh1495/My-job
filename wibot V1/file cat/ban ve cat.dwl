@@ -1,3 +1,0 @@
-Administrator
-4NNYCWQBW3HKYEF 
-07 Tha´ng Hai 2018  1:32:14 CH

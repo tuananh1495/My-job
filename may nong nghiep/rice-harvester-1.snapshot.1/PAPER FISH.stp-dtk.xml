@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="C:\Program Files\DATAKIT\CrossManager2017_64bit\schema\dtk_xsl\dtk_171.xsl"?>
+<Log>
+<DtkApiVersion>171</DtkApiVersion>
+<DtkDllVersion>1227</DtkDllVersion>
+<ProductMode>Dtk</ProductMode>
+<InputFormat>INVENTOR</InputFormat>
+<OutputFormat>STEP</OutputFormat>
+<HealingFlag>0</HealingFlag>
+<ConfigFile>C:\Users\Admin\AppData\Roaming\Datakit\CrossManager\dtkConfig.dtk</ConfigFile>
+<FileName><![CDATA[D:\My-job\may nong nghiep\rice-harvester-1.snapshot.1\PAPER FISH.iam]]></FileName>
+<FileVersion>19</FileVersion>
+<OutPutFileName><![CDATA[D:\My-job\may nong nghiep\rice-harvester-1.snapshot.1\PAPER FISH.stp]]></OutPutFileName>
+<OutPutFileSize>1643</OutPutFileSize>
+<bill_of_materials>
+<component><path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH1.ipt]]></path><type>Part</type><quantity>0</quantity><name><![CDATA[PAPER FISH1:1]]></name><status>Missing Component</status><size>0</size><unit>Inches</unit><version></version></component>
+<component><path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH2.ipt]]></path><type>Part</type><quantity>0</quantity><name><![CDATA[PAPER FISH2:1]]></name><status>Missing Component</status><size>0</size><unit>Inches</unit><version></version></component>
+<component><path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH3.ipt]]></path><type>Part</type><quantity>0</quantity><name><![CDATA[PAPER FISH3:1]]></name><status>Missing Component</status><size>0</size><unit>Inches</unit><version></version></component>
+<component><path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH4.ipt]]></path><type>Part</type><quantity>0</quantity><name><![CDATA[PAPER FISH4:1]]></name><status>Missing Component</status><size>0</size><unit>Inches</unit><version></version></component>
+<component><path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH5.ipt]]></path><type>Part</type><quantity>0</quantity><name><![CDATA[PAPER FISH5:1]]></name><status>Missing Component</status><size>0</size><unit>Inches</unit><version></version></component>
+<component><path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH6.ipt]]></path><type>Part</type><quantity>0</quantity><name><![CDATA[PAPER FISH6:1]]></name><status>Missing Component</status><size>0</size><unit>Inches</unit><version></version></component>
+<component><path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH7.ipt]]></path><type>Part</type><quantity>0</quantity><name><![CDATA[PAPER FISH7:1]]></name><status>Missing Component</status><size>0</size><unit>Inches</unit><version></version></component>
+<component><path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH8.ipt]]></path><type>Part</type><quantity>0</quantity><name><![CDATA[PAPER FISH8:1]]></name><status>Missing Component</status><size>0</size><unit>Inches</unit><version></version></component>
+<component><path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH9.ipt]]></path><type>Part</type><quantity>0</quantity><name><![CDATA[PAPER FISH9:1]]></name><status>Missing Component</status><size>0</size><unit>Inches</unit><version></version></component>
+<component><path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH10.ipt]]></path><type>Part</type><quantity>0</quantity><name><![CDATA[PAPER FISH10:1]]></name><status>Missing Component</status><size>0</size><unit>Inches</unit><version></version></component>
+<component><path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH11.ipt]]></path><type>Part</type><quantity>0</quantity><name><![CDATA[PAPER FISH11:1]]></name><status>Missing Component</status><size>0</size><unit>Inches</unit><version></version></component>
+<component><path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH12.ipt]]></path><type>Part</type><quantity>0</quantity><name><![CDATA[PAPER FISH12:1]]></name><status>Missing Component</status><size>0</size><unit>Inches</unit><version></version></component>
+<component><path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH13.ipt]]></path><type>Part</type><quantity>0</quantity><name><![CDATA[PAPER FISH13:1]]></name><status>Missing Component</status><size>0</size><unit>Inches</unit><version></version></component>
+<component><path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH14.ipt]]></path><type>Part</type><quantity>0</quantity><name><![CDATA[PAPER FISH14:1]]></name><status>Missing Component</status><size>0</size><unit>Inches</unit><version></version></component>
+<component><path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH15.ipt]]></path><type>Part</type><quantity>0</quantity><name><![CDATA[PAPER FISH15:1]]></name><status>Missing Component</status><size>0</size><unit>Inches</unit><version></version></component>
+<component_root><path><![CDATA[D:\My-job\may nong nghiep\rice-harvester-1.snapshot.1\PAPER FISH.iam]]></path><type>Assembly</type><name><![CDATA[PAPER FISH.iam]]></name><status>dtkNoError</status><size>534528</size><unit>Inches</unit><version></version></component_root>
+</bill_of_materials>
+<components_info>
+<component>
+<path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH1.ipt]]></path>
+<name><![CDATA[PAPER FISH1:1]]></name>
+</component>
+<component>
+<path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH2.ipt]]></path>
+<name><![CDATA[PAPER FISH2:1]]></name>
+</component>
+<component>
+<path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH3.ipt]]></path>
+<name><![CDATA[PAPER FISH3:1]]></name>
+</component>
+<component>
+<path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH4.ipt]]></path>
+<name><![CDATA[PAPER FISH4:1]]></name>
+</component>
+<component>
+<path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH5.ipt]]></path>
+<name><![CDATA[PAPER FISH5:1]]></name>
+</component>
+<component>
+<path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH6.ipt]]></path>
+<name><![CDATA[PAPER FISH6:1]]></name>
+</component>
+<component>
+<path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH7.ipt]]></path>
+<name><![CDATA[PAPER FISH7:1]]></name>
+</component>
+<component>
+<path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH8.ipt]]></path>
+<name><![CDATA[PAPER FISH8:1]]></name>
+</component>
+<component>
+<path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH9.ipt]]></path>
+<name><![CDATA[PAPER FISH9:1]]></name>
+</component>
+<component>
+<path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH10.ipt]]></path>
+<name><![CDATA[PAPER FISH10:1]]></name>
+</component>
+<component>
+<path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH11.ipt]]></path>
+<name><![CDATA[PAPER FISH11:1]]></name>
+</component>
+<component>
+<path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH12.ipt]]></path>
+<name><![CDATA[PAPER FISH12:1]]></name>
+</component>
+<component>
+<path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH13.ipt]]></path>
+<name><![CDATA[PAPER FISH13:1]]></name>
+</component>
+<component>
+<path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH14.ipt]]></path>
+<name><![CDATA[PAPER FISH14:1]]></name>
+</component>
+<component>
+<path><![CDATA[C:\Users\Me\Desktop\DRAWINGS\FCA\PAPER FISH15.ipt]]></path>
+<name><![CDATA[PAPER FISH15:1]]></name>
+</component>
+<component>
+<path><![CDATA[D:\My-job\may nong nghiep\rice-harvester-1.snapshot.1\PAPER FISH.iam]]></path>
+<name><![CDATA[PAPER FISH.iam]]></name>
+<meta>
+<property><title>Creation Date</title><value><![CDATA[10/07/2016]]></value><type>TypeProperty</type></property>
+<property><title>Part Number</title><value><![CDATA[PAPER FISH]]></value><type>TypeProperty</type></property>
+<property><title>File Subtype</title><value><![CDATA[Assembly]]></value><type>TypeProperty</type></property>
+<property><title>Design State</title><value><![CDATA[WorkInProgress]]></value><type>TypeProperty</type></property>
+<property><title>Designer</title><value><![CDATA[Me]]></value><type>TypeProperty</type></property>
+<property><title>Author</title><value><![CDATA[Me]]></value><type>TypeProperty</type></property>
+</meta>
+</component>
+</components_info>
+<output_files_written>
+<file><path><![CDATA[D:\My-job\may nong nghiep\rice-harvester-1.snapshot.1\PAPER FISH.stp]]></path><size>1643</size></file>
+</output_files_written>
+<inventory_writer>
+<output_file>
+<path><![CDATA[D:\My-job\may nong nghiep\rice-harvester-1.snapshot.1\PAPER FISH.stp]]></path>
+<synthetic_inventory>
+<entity><count>1</count><type>File</type></entity>
+<entity><count>1</count><type>Product</type></entity>
+</synthetic_inventory>
+<inventory>
+<entity><count>1</count><type>APPLICATION_CONTEXT</type></entity>
+<entity><count>1</count><type>APPLICATION_PROTOCOL_DEFINITION</type></entity>
+<entity><count>1</count><type>AXIS2_PLACEMENT_3D</type></entity>
+<entity><count>1</count><type>CARTESIAN_POINT</type></entity>
+<entity><count>2</count><type>DIRECTION</type></entity>
+<entity><count>1</count><type>GEOMETRIC_REPRESENTATION_CONTEXT+GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT+GLOBAL_UNIT_ASSIGNED_CONTEXT+REPRESENTATION_CONTEXT</type></entity>
+<entity><count>1</count><type>LENGTH_UNIT+NAMED_UNIT+SI_UNIT</type></entity>
+<entity><count>1</count><type>NAMED_UNIT+PLANE_ANGLE_UNIT+SI_UNIT</type></entity>
+<entity><count>1</count><type>PRODUCT</type></entity>
+<entity><count>1</count><type>PRODUCT_CONTEXT</type></entity>
+<entity><count>1</count><type>PRODUCT_DEFINITION</type></entity>
+<entity><count>1</count><type>PRODUCT_DEFINITION_CONTEXT</type></entity>
+<entity><count>1</count><type>PRODUCT_DEFINITION_FORMATION</type></entity>
+<entity><count>1</count><type>PRODUCT_DEFINITION_SHAPE</type></entity>
+<entity><count>1</count><type>SHAPE_DEFINITION_REPRESENTATION</type></entity>
+<entity><count>1</count><type>SHAPE_REPRESENTATION</type></entity>
+<entity><count>1</count><type>UNCERTAINTY_MEASURE_WITH_UNIT</type></entity>
+<entity><count>18</count><type>TOTAL</type></entity>
+</inventory>
+</output_file>
+</inventory_writer>
+<configuration>
+<path><![CDATA[C:\Users\Admin\AppData\Roaming\Datakit\CrossManager\dtkConfig.dtk]]></path>
+<section>
+<name><![CDATA[STEP CONF]]></name>
+<config><parameter>WRITE_FDT</parameter><value>1</value></config>
+<config><parameter>WRITE_FDT_POLYLINE</parameter><value>0</value></config>
+<config><parameter>WRITE_VERSION</parameter><value>0</value></config>
+</section>
+<section>
+<name><![CDATA[TRANSFORMATION ENTITES]]></name>
+<config><parameter>KEEP_ASSEMBLY</parameter><value>1</value></config>
+<config><parameter>BODY_TO_NURBS</parameter><value>0</value></config>
+<config><parameter>EXPLOSE_GROUP</parameter><value>1</value></config>
+<config><parameter>MERGE_BODIES</parameter><value>0</value></config>
+</section>
+<section>
+<name><![CDATA[FILTRAGE DE DOMAINE]]></name>
+<config><parameter>COURBE_LIM_3D</parameter><value>0</value></config>
+<config><parameter>FILAIRE</parameter><value>0</value></config>
+<config><parameter>FDT</parameter><value>0</value></config>
+<config><parameter>FEATURES</parameter><value>1</value></config>
+<config><parameter>META_PARAMETERS</parameter><value>0</value></config>
+<config><parameter>REFERENTIEL</parameter><value>1</value></config>
+<config><parameter>MESH</parameter><value>1</value></config>
+<config><parameter>RENDER_INFOS</parameter><value>1</value></config>
+<config><parameter>MODEL_DISPLAY</parameter><value>0</value></config>
+<config><parameter>DRAW</parameter><value>0</value></config>
+<config><parameter>CONSTRUCT_SOLIDS</parameter><value>1</value></config>
+</section>
+<section>
+<name><![CDATA[MODIFICATION D'ATTRIBUT]]></name>
+<config><parameter>VISIBILITY</parameter><value>-1</value></config>
+<config><parameter>ASM_VISIBILITY</parameter><value>-1</value></config>
+<config><parameter>FDT_VISIBILITY</parameter><value>-1</value></config>
+</section>
+<section>
+<name><![CDATA[DIALOG BOX]]></name>
+<config><parameter>CHOOSE_AXIS</parameter><value>0</value></config>
+<config><parameter>CHOOSE_IN_CATALOG</parameter><value>-1</value></config>
+<config><parameter>CHOOSE_LAYER_FILTER</parameter><value>0</value></config>
+<config><parameter>CHOOSE_IN_ASSEMBLY_TREE</parameter><value>0</value></config>
+</section>
+<section>
+<name><![CDATA[SCISSION FICHIER]]></name>
+<config><parameter>PAR_SOLIDE</parameter><value>0</value></config>
+<config><parameter>PER_CATALOG</parameter><value>0</value></config>
+</section>
+</configuration>
+<Conversion>
+<Start>  20:00:24</Start>
+<End>  20:00:24</End>
+<Duration>0 sec</Duration>
+</Conversion>
+</Log>

@@ -8,122 +8,122 @@
 <OutputFormat>STEP</OutputFormat>
 <HealingFlag>0</HealingFlag>
 <ConfigFile>C:\Users\Admin\AppData\Roaming\Datakit\CrossManager\dtkConfig.dtk</ConfigFile>
-<FileName><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ4 Сборка.SLDASM]]></FileName>
+<FileName><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ4 Сборка.SLDASM]]></FileName>
 <FileVersion>Official version for SolidWorks 2016 </FileVersion>
-<OutPutFileName><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STEP\STV4СТВ4 Сборка.stp]]></OutPutFileName>
+<OutPutFileName><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STEP\STV4СТВ4 Сборка.stp]]></OutPutFileName>
 <OutPutFileSize>7494447</OutPutFileSize>
 <bill_of_materials>
-<component_root><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ4 Сборка.SLDASM]]></path><type>Assembly</type><name><![CDATA[STV4СТВ4 Сборка]]></name><status>dtkNoError</status><size>5091256</size><unit>Millimeters</unit><version></version></component_root>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ4 рама - деталь 1.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ4 рама - деталь 1]]></name><status>dtkNoError</status><size>74338</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ4 рама - деталь 2.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ4 рама - деталь 2]]></name><status>dtkNoError</status><size>234199</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх2 рама дет 2.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4ЧСх2 рама дет 2]]></name><status>dtkNoError</status><size>99702</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ2 вал (2000х12).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ2 вал (2000х12)]]></name><status>dtkNoError</status><size>59095</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ4 вал (1900х5).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ4 вал (1900х5)]]></name><status>dtkNoError</status><size>54448</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводной механизм сборка (левая).SLDASM]]></path><type>Assembly</type><quantity>1</quantity><name><![CDATA[STV4СТВ приводной механизм сборка (левая)]]></name><status>dtkNoError</status><size>2194641</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводной механизм 1 (рама левая).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ приводной механизм 1 (рама левая)]]></name><status>dtkNoError</status><size>339855</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 приводной механизм 3  (ролик натяжителя).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4ЧСх4 приводной механизм 3  (ролик натяжителя)]]></name><status>dtkNoError</status><size>108421</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 приводной механизм 2 (кронштейн натяжителя).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4ЧСх4 приводной механизм 2 (кронштейн натяжителя)]]></name><status>dtkNoError</status><size>79200</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 приводной механизм 4  (втулка малой звездочки).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4ЧСх4 приводной механизм 4  (втулка малой звездочки)]]></name><status>dtkNoError</status><size>98663</size><unit>Millimeters</unit><version></version></component>
+<component_root><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ4 Сборка.SLDASM]]></path><type>Assembly</type><name><![CDATA[STV4СТВ4 Сборка]]></name><status>dtkNoError</status><size>5091256</size><unit>Millimeters</unit><version></version></component_root>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ4 рама - деталь 1.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ4 рама - деталь 1]]></name><status>dtkNoError</status><size>74338</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ4 рама - деталь 2.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ4 рама - деталь 2]]></name><status>dtkNoError</status><size>234199</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх2 рама дет 2.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4ЧСх2 рама дет 2]]></name><status>dtkNoError</status><size>99702</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ2 вал (2000х12).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ2 вал (2000х12)]]></name><status>dtkNoError</status><size>59095</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ4 вал (1900х5).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ4 вал (1900х5)]]></name><status>dtkNoError</status><size>54448</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводной механизм сборка (левая).SLDASM]]></path><type>Assembly</type><quantity>1</quantity><name><![CDATA[STV4СТВ приводной механизм сборка (левая)]]></name><status>dtkNoError</status><size>2194641</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводной механизм 1 (рама левая).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ приводной механизм 1 (рама левая)]]></name><status>dtkNoError</status><size>339855</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 приводной механизм 3  (ролик натяжителя).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4ЧСх4 приводной механизм 3  (ролик натяжителя)]]></name><status>dtkNoError</status><size>108421</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 приводной механизм 2 (кронштейн натяжителя).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4ЧСх4 приводной механизм 2 (кронштейн натяжителя)]]></name><status>dtkNoError</status><size>79200</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 приводной механизм 4  (втулка малой звездочки).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4ЧСх4 приводной механизм 4  (втулка малой звездочки)]]></name><status>dtkNoError</status><size>98663</size><unit>Millimeters</unit><version></version></component>
 <component><path><![CDATA[C:\Users\Admin\AppData\Local\Temp\втулка натяжителя^STV4СТВ приводной механизм сборка (левая).sldprt]]></path><type>Part</type><quantity>0</quantity><name><![CDATA[втулка натяжителя^STV4СТВ приводной механизм сборка (левая)]]></name><status>Missing Component</status><size>0</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 приводной механизм 5  (Вал 120х20).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4ЧСх4 приводной механизм 5  (Вал 120х20)]]></name><status>dtkNoError</status><size>103144</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводной механизм 6  (Вал 220х20 со шплинтом).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ приводной механизм 6  (Вал 220х20 со шплинтом)]]></name><status>dtkNoError</status><size>100845</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 цепь 081-1.SLDPRT]]></path><type>Part</type><quantity>33</quantity><name><![CDATA[STV4ЧСх4 цепь 081-1]]></name><status>dtkNoError</status><size>150490</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 цепь 081-2.SLDPRT]]></path><type>Part</type><quantity>33</quantity><name><![CDATA[STV4ЧСх4 цепь 081-2]]></name><status>dtkNoError</status><size>131726</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4lock washer for shafts_din.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4lock washer for shafts_din]]></name><status>dtkNoError</status><size>199172</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4radial ball bearing_68_skf.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4radial ball bearing_68_skf]]></name><status>dtkNoError</status><size>800961</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for bores normal_din.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4circlip for bores normal_din]]></name><status>dtkNoError</status><size>348485</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for bores normal_din.sldprt]]></path><type>Part</type><quantity>4</quantity><name><![CDATA[STV4circlip for bores normal_din]]></name><status>dtkNoError</status><size>348485</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4radial ball bearing_68_skf.sldprt]]></path><type>Part</type><quantity>4</quantity><name><![CDATA[STV4radial ball bearing_68_skf]]></name><status>dtkNoError</status><size>800961</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex nut gradec_iso.sldprt]]></path><type>Part</type><quantity>26</quantity><name><![CDATA[STV4hex nut gradec_iso]]></name><status>dtkNoError</status><size>413185</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex nut gradec_iso.sldprt]]></path><type>Part</type><quantity>12</quantity><name><![CDATA[STV4hex nut gradec_iso]]></name><status>dtkNoError</status><size>413185</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>3</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>11</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4plain washer normal grade c_iso.sldprt]]></path><type>Part</type><quantity>8</quantity><name><![CDATA[STV4plain washer normal grade c_iso]]></name><status>dtkNoError</status><size>198679</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 приводной механизм 7  (звездочка двойная1-z36).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4ЧСх4 приводной механизм 7  (звездочка двойная1-z36)]]></name><status>dtkNoError</status><size>419628</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4split pin_iso.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4split pin_iso]]></name><status>dtkNoError</status><size>165965</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ звездочка тройная z26-36-14 с механизмом блокировки.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ звездочка тройная z26-36-14 с механизмом блокировки]]></name><status>dtkNoError</status><size>275237</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ звездочка тройная z26-36-14 (14я).SLDPRT]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4СТВ звездочка тройная z26-36-14 (14я)]]></name><status>dtkNoError</status><size>202274</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ звездочка тройная z26-36-14 без механизма блокировки.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ звездочка тройная z26-36-14 без механизма блокировки]]></name><status>dtkNoError</status><size>261520</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ звездочка тройная z32 без механизма блокировки.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ звездочка тройная z32 без механизма блокировки]]></name><status>dtkNoError</status><size>350572</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>3</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Ручка механизма блокировки.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ Ручка механизма блокировки]]></name><status>dtkNoError</status><size>102996</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Рычаг механизма блокировки.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ Рычаг механизма блокировки]]></name><status>dtkNoError</status><size>135930</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ пружина натяжителя (левая).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ пружина натяжителя (левая)]]></name><status>dtkNoError</status><size>214960</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводной механизм сборка (правая).SLDASM]]></path><type>Assembly</type><quantity>1</quantity><name><![CDATA[STV4СТВ приводной механизм сборка (правая)]]></name><status>dtkNoError</status><size>321540</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводной механизм 1 (рама правая).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ приводной механизм 1 (рама правая)]]></name><status>dtkNoError</status><size>224018</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВприводной механизм 6  (Вал 150х20).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВприводной механизм 6  (Вал 150х20)]]></name><status>dtkNoError</status><size>99581</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ кронштейн привода ворошителей сборка.SLDASM]]></path><type>Assembly</type><quantity>1</quantity><name><![CDATA[STV4СТВ кронштейн привода ворошителей сборка]]></name><status>dtkNoError</status><size>737447</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ кронштейн привода ворошителей.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ кронштейн привода ворошителей]]></name><status>dtkNoError</status><size>170827</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ вал№1 кронштейна привода ворошителей.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ вал№1 кронштейна привода ворошителей]]></name><status>dtkNoError</status><size>82413</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ вал№2 кронштейна привода ворошителей.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ вал№2 кронштейна привода ворошителей]]></name><status>dtkNoError</status><size>56434</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4radial ball bearing_68_skf.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4radial ball bearing_68_skf]]></name><status>dtkNoError</status><size>800961</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for bores normal_din.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4circlip for bores normal_din]]></name><status>dtkNoError</status><size>348485</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for shafts normal_din.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4circlip for shafts normal_din]]></name><status>dtkNoError</status><size>300745</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ ролик №1 кронштейна привода ворошителей.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ ролик №1 кронштейна привода ворошителей]]></name><status>dtkNoError</status><size>134643</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ ролик №2 кронштейна привода ворошителей.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ ролик №2 кронштейна привода ворошителей]]></name><status>dtkNoError</status><size>142869</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for bores normal_din.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4circlip for bores normal_din]]></name><status>dtkNoError</status><size>348485</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for shafts normal_din.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4circlip for shafts normal_din]]></name><status>dtkNoError</status><size>300745</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4radial ball bearing_68_skf.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4radial ball bearing_68_skf]]></name><status>dtkNoError</status><size>800961</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 приводной механизм 5  (Вал 120х20).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4ЧСх4 приводной механизм 5  (Вал 120х20)]]></name><status>dtkNoError</status><size>103144</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводной механизм 6  (Вал 220х20 со шплинтом).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ приводной механизм 6  (Вал 220х20 со шплинтом)]]></name><status>dtkNoError</status><size>100845</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 цепь 081-1.SLDPRT]]></path><type>Part</type><quantity>33</quantity><name><![CDATA[STV4ЧСх4 цепь 081-1]]></name><status>dtkNoError</status><size>150490</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 цепь 081-2.SLDPRT]]></path><type>Part</type><quantity>33</quantity><name><![CDATA[STV4ЧСх4 цепь 081-2]]></name><status>dtkNoError</status><size>131726</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4lock washer for shafts_din.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4lock washer for shafts_din]]></name><status>dtkNoError</status><size>199172</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4radial ball bearing_68_skf.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4radial ball bearing_68_skf]]></name><status>dtkNoError</status><size>800961</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for bores normal_din.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4circlip for bores normal_din]]></name><status>dtkNoError</status><size>348485</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for bores normal_din.sldprt]]></path><type>Part</type><quantity>4</quantity><name><![CDATA[STV4circlip for bores normal_din]]></name><status>dtkNoError</status><size>348485</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4radial ball bearing_68_skf.sldprt]]></path><type>Part</type><quantity>4</quantity><name><![CDATA[STV4radial ball bearing_68_skf]]></name><status>dtkNoError</status><size>800961</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex nut gradec_iso.sldprt]]></path><type>Part</type><quantity>26</quantity><name><![CDATA[STV4hex nut gradec_iso]]></name><status>dtkNoError</status><size>413185</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex nut gradec_iso.sldprt]]></path><type>Part</type><quantity>12</quantity><name><![CDATA[STV4hex nut gradec_iso]]></name><status>dtkNoError</status><size>413185</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>3</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>11</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4plain washer normal grade c_iso.sldprt]]></path><type>Part</type><quantity>8</quantity><name><![CDATA[STV4plain washer normal grade c_iso]]></name><status>dtkNoError</status><size>198679</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 приводной механизм 7  (звездочка двойная1-z36).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4ЧСх4 приводной механизм 7  (звездочка двойная1-z36)]]></name><status>dtkNoError</status><size>419628</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4split pin_iso.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4split pin_iso]]></name><status>dtkNoError</status><size>165965</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ звездочка тройная z26-36-14 с механизмом блокировки.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ звездочка тройная z26-36-14 с механизмом блокировки]]></name><status>dtkNoError</status><size>275237</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ звездочка тройная z26-36-14 (14я).SLDPRT]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4СТВ звездочка тройная z26-36-14 (14я)]]></name><status>dtkNoError</status><size>202274</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ звездочка тройная z26-36-14 без механизма блокировки.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ звездочка тройная z26-36-14 без механизма блокировки]]></name><status>dtkNoError</status><size>261520</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ звездочка тройная z32 без механизма блокировки.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ звездочка тройная z32 без механизма блокировки]]></name><status>dtkNoError</status><size>350572</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>3</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Ручка механизма блокировки.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ Ручка механизма блокировки]]></name><status>dtkNoError</status><size>102996</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Рычаг механизма блокировки.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ Рычаг механизма блокировки]]></name><status>dtkNoError</status><size>135930</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ пружина натяжителя (левая).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ пружина натяжителя (левая)]]></name><status>dtkNoError</status><size>214960</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводной механизм сборка (правая).SLDASM]]></path><type>Assembly</type><quantity>1</quantity><name><![CDATA[STV4СТВ приводной механизм сборка (правая)]]></name><status>dtkNoError</status><size>321540</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводной механизм 1 (рама правая).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ приводной механизм 1 (рама правая)]]></name><status>dtkNoError</status><size>224018</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВприводной механизм 6  (Вал 150х20).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВприводной механизм 6  (Вал 150х20)]]></name><status>dtkNoError</status><size>99581</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ кронштейн привода ворошителей сборка.SLDASM]]></path><type>Assembly</type><quantity>1</quantity><name><![CDATA[STV4СТВ кронштейн привода ворошителей сборка]]></name><status>dtkNoError</status><size>737447</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ кронштейн привода ворошителей.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ кронштейн привода ворошителей]]></name><status>dtkNoError</status><size>170827</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ вал№1 кронштейна привода ворошителей.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ вал№1 кронштейна привода ворошителей]]></name><status>dtkNoError</status><size>82413</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ вал№2 кронштейна привода ворошителей.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ вал№2 кронштейна привода ворошителей]]></name><status>dtkNoError</status><size>56434</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4radial ball bearing_68_skf.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4radial ball bearing_68_skf]]></name><status>dtkNoError</status><size>800961</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for bores normal_din.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4circlip for bores normal_din]]></name><status>dtkNoError</status><size>348485</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for shafts normal_din.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4circlip for shafts normal_din]]></name><status>dtkNoError</status><size>300745</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ ролик №1 кронштейна привода ворошителей.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ ролик №1 кронштейна привода ворошителей]]></name><status>dtkNoError</status><size>134643</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ ролик №2 кронштейна привода ворошителей.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ ролик №2 кронштейна привода ворошителей]]></name><status>dtkNoError</status><size>142869</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for bores normal_din.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4circlip for bores normal_din]]></name><status>dtkNoError</status><size>348485</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for shafts normal_din.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4circlip for shafts normal_din]]></name><status>dtkNoError</status><size>300745</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4radial ball bearing_68_skf.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4radial ball bearing_68_skf]]></name><status>dtkNoError</status><size>800961</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
 <component><path><![CDATA[C:\Users\Admin\AppData\Local\Temp\Ремень1-6^STV4СТВ кронштейн привода ворошителей сборка.sldprt]]></path><type>Part</type><quantity>0</quantity><name><![CDATA[Ремень1-6^STV4СТВ кронштейн привода ворошителей сборка]]></name><status>Missing Component</status><size>0</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4pan head cross recess screw_iso.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4pan head cross recess screw_iso]]></name><status>dtkNoError</status><size>335104</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 грунтозацеп  (левый).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4ЧСх4 грунтозацеп  (левый)]]></name><status>dtkNoError</status><size>220088</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 грунтозацеп  (правый).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4ЧСх4 грунтозацеп  (правый)]]></name><status>dtkNoError</status><size>215163</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4torque nut 01_iso.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4torque nut 01_iso]]></name><status>dtkNoError</status><size>454591</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ бункер сборка.SLDASM]]></path><type>Assembly</type><quantity>4</quantity><name><![CDATA[STV4СТВ бункер сборка]]></name><status>dtkNoError</status><size>1144902</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ  бункер.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ  бункер]]></name><status>dtkNoError</status><size>366134</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ  бункер пластина к корпусу.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ  бункер пластина к корпусу]]></name><status>dtkNoError</status><size>120329</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4pan head cross recess screw_iso.sldprt]]></path><type>Part</type><quantity>5</quantity><name><![CDATA[STV4pan head cross recess screw_iso]]></name><status>dtkNoError</status><size>335104</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ высевной барабан 2.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ высевной барабан 2]]></name><status>dtkNoError</status><size>335739</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ прокладка к барабану2.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ прокладка к барабану2]]></name><status>dtkNoError</status><size>73348</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ нож-сбрасыватель.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ нож-сбрасыватель]]></name><status>dtkNoError</status><size>68106</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ  крышка бункера.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ  крышка бункера]]></name><status>dtkNoError</status><size>187359</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ  бункер (прокладка резиновая).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ  бункер (прокладка резиновая)]]></name><status>dtkNoError</status><size>60202</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ бункер кисточка.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ бункер кисточка]]></name><status>dtkNoError</status><size>237476</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4plain washer normal grade c_iso.sldprt]]></path><type>Part</type><quantity>6</quantity><name><![CDATA[STV4plain washer normal grade c_iso]]></name><status>dtkNoError</status><size>198679</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4wing nut 01_din.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4wing nut 01_din]]></name><status>dtkNoError</status><size>501068</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводная втулка.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ приводная втулка]]></name><status>dtkNoError</status><size>102061</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ втулка ограничитель.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ втулка ограничитель]]></name><status>dtkNoError</status><size>86968</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ  ворошитель семян.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ  ворошитель семян]]></name><status>dtkNoError</status><size>95894</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ трубка рессоры шасси.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ трубка рессоры шасси]]></name><status>dtkNoError</status><size>306695</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Шасси сборка.SLDASM]]></path><type>Assembly</type><quantity>4</quantity><name><![CDATA[STV4СТВ Шасси сборка]]></name><status>dtkNoError</status><size>1294967</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ деталь шасси №1.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ деталь шасси №1]]></name><status>dtkNoError</status><size>259438</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ деталь шасси №2.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ деталь шасси №2]]></name><status>dtkNoError</status><size>201804</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ деталь шасси №3.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ деталь шасси №3]]></name><status>dtkNoError</status><size>194872</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Вал шасси.SLDPRT]]></path><type>Part</type><quantity>3</quantity><name><![CDATA[STV4СТВ Вал шасси]]></name><status>dtkNoError</status><size>108286</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ колесо.SLDPRT]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4СТВ колесо]]></name><status>dtkNoError</status><size>122015</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ резиновая заглушка.SLDPRT]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4СТВ резиновая заглушка]]></name><status>dtkNoError</status><size>108681</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4plain washer normal grade c_iso.sldprt]]></path><type>Part</type><quantity>3</quantity><name><![CDATA[STV4plain washer normal grade c_iso]]></name><status>dtkNoError</status><size>198679</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4lock washer for shafts_din.sldprt]]></path><type>Part</type><quantity>3</quantity><name><![CDATA[STV4lock washer for shafts_din]]></name><status>dtkNoError</status><size>199172</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4torque nut 01_iso.sldprt]]></path><type>Part</type><quantity>4</quantity><name><![CDATA[STV4torque nut 01_iso]]></name><status>dtkNoError</status><size>454591</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4torque nut 01_iso.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4torque nut 01_iso]]></name><status>dtkNoError</status><size>454591</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>4</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex nut gradec_iso.sldprt]]></path><type>Part</type><quantity>4</quantity><name><![CDATA[STV4hex nut gradec_iso]]></name><status>dtkNoError</status><size>413185</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex nut gradec_iso.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4hex nut gradec_iso]]></name><status>dtkNoError</status><size>413185</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4plain washer normal grade c_iso.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4plain washer normal grade c_iso]]></name><status>dtkNoError</status><size>198679</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ шасси пружина.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ шасси пружина]]></name><status>dtkNoError</status><size>67543</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Звено цепи шасси.SLDPRT]]></path><type>Part</type><quantity>20</quantity><name><![CDATA[STV4СТВ Звено цепи шасси]]></name><status>dtkNoError</status><size>79965</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ шасси Загортач деталь2.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ шасси Загортач деталь2]]></name><status>dtkNoError</status><size>77140</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ шасси Загортач деталь1.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ шасси Загортач деталь1]]></name><status>dtkNoError</status><size>117691</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Звено цепи загортача.SLDPRT]]></path><type>Part</type><quantity>12</quantity><name><![CDATA[STV4СТВ Звено цепи загортача]]></name><status>dtkNoError</status><size>74701</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ сошник.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ сошник]]></name><status>dtkNoError</status><size>135800</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4wing nut 01_din.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4wing nut 01_din]]></name><status>dtkNoError</status><size>501068</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх2 рама дет 3 (ручка).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4ЧСх2 рама дет 3 (ручка)]]></name><status>dtkNoError</status><size>58406</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4Болт М12 х 120.SLDPRT]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4Болт М12 х 120]]></name><status>dtkNoError</status><size>123180</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4Гайка M12.sldprt]]></path><type>Part</type><quantity>4</quantity><name><![CDATA[STV4Гайка M12]]></name><status>dtkNoError</status><size>277165</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4Шайба М12.SLDPRT]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4Шайба М12]]></name><status>dtkNoError</status><size>81624</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4Шайба широкая М12.SLDPRT]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4Шайба широкая М12]]></name><status>dtkNoError</status><size>100103</size><unit>Millimeters</unit><version></version></component>
-<component><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4сцепка усиленная - дет.1.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4сцепка усиленная - дет.1]]></name><status>dtkNoError</status><size>95095</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4pan head cross recess screw_iso.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4pan head cross recess screw_iso]]></name><status>dtkNoError</status><size>335104</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 грунтозацеп  (левый).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4ЧСх4 грунтозацеп  (левый)]]></name><status>dtkNoError</status><size>220088</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 грунтозацеп  (правый).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4ЧСх4 грунтозацеп  (правый)]]></name><status>dtkNoError</status><size>215163</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4torque nut 01_iso.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4torque nut 01_iso]]></name><status>dtkNoError</status><size>454591</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ бункер сборка.SLDASM]]></path><type>Assembly</type><quantity>4</quantity><name><![CDATA[STV4СТВ бункер сборка]]></name><status>dtkNoError</status><size>1144902</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ  бункер.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ  бункер]]></name><status>dtkNoError</status><size>366134</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ  бункер пластина к корпусу.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ  бункер пластина к корпусу]]></name><status>dtkNoError</status><size>120329</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4pan head cross recess screw_iso.sldprt]]></path><type>Part</type><quantity>5</quantity><name><![CDATA[STV4pan head cross recess screw_iso]]></name><status>dtkNoError</status><size>335104</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ высевной барабан 2.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ высевной барабан 2]]></name><status>dtkNoError</status><size>335739</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ прокладка к барабану2.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ прокладка к барабану2]]></name><status>dtkNoError</status><size>73348</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ нож-сбрасыватель.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ нож-сбрасыватель]]></name><status>dtkNoError</status><size>68106</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ  крышка бункера.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ  крышка бункера]]></name><status>dtkNoError</status><size>187359</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ  бункер (прокладка резиновая).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ  бункер (прокладка резиновая)]]></name><status>dtkNoError</status><size>60202</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ бункер кисточка.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ бункер кисточка]]></name><status>dtkNoError</status><size>237476</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4plain washer normal grade c_iso.sldprt]]></path><type>Part</type><quantity>6</quantity><name><![CDATA[STV4plain washer normal grade c_iso]]></name><status>dtkNoError</status><size>198679</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4wing nut 01_din.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4wing nut 01_din]]></name><status>dtkNoError</status><size>501068</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводная втулка.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ приводная втулка]]></name><status>dtkNoError</status><size>102061</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ втулка ограничитель.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ втулка ограничитель]]></name><status>dtkNoError</status><size>86968</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ  ворошитель семян.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ  ворошитель семян]]></name><status>dtkNoError</status><size>95894</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ трубка рессоры шасси.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ трубка рессоры шасси]]></name><status>dtkNoError</status><size>306695</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Шасси сборка.SLDASM]]></path><type>Assembly</type><quantity>4</quantity><name><![CDATA[STV4СТВ Шасси сборка]]></name><status>dtkNoError</status><size>1294967</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ деталь шасси №1.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ деталь шасси №1]]></name><status>dtkNoError</status><size>259438</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ деталь шасси №2.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ деталь шасси №2]]></name><status>dtkNoError</status><size>201804</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ деталь шасси №3.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ деталь шасси №3]]></name><status>dtkNoError</status><size>194872</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Вал шасси.SLDPRT]]></path><type>Part</type><quantity>3</quantity><name><![CDATA[STV4СТВ Вал шасси]]></name><status>dtkNoError</status><size>108286</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ колесо.SLDPRT]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4СТВ колесо]]></name><status>dtkNoError</status><size>122015</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ резиновая заглушка.SLDPRT]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4СТВ резиновая заглушка]]></name><status>dtkNoError</status><size>108681</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4plain washer normal grade c_iso.sldprt]]></path><type>Part</type><quantity>3</quantity><name><![CDATA[STV4plain washer normal grade c_iso]]></name><status>dtkNoError</status><size>198679</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4lock washer for shafts_din.sldprt]]></path><type>Part</type><quantity>3</quantity><name><![CDATA[STV4lock washer for shafts_din]]></name><status>dtkNoError</status><size>199172</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4torque nut 01_iso.sldprt]]></path><type>Part</type><quantity>4</quantity><name><![CDATA[STV4torque nut 01_iso]]></name><status>dtkNoError</status><size>454591</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4torque nut 01_iso.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4torque nut 01_iso]]></name><status>dtkNoError</status><size>454591</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path><type>Part</type><quantity>4</quantity><name><![CDATA[STV4hex screw gradec_iso]]></name><status>dtkNoError</status><size>1526710</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex nut gradec_iso.sldprt]]></path><type>Part</type><quantity>4</quantity><name><![CDATA[STV4hex nut gradec_iso]]></name><status>dtkNoError</status><size>413185</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex nut gradec_iso.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4hex nut gradec_iso]]></name><status>dtkNoError</status><size>413185</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4plain washer normal grade c_iso.sldprt]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4plain washer normal grade c_iso]]></name><status>dtkNoError</status><size>198679</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ шасси пружина.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ шасси пружина]]></name><status>dtkNoError</status><size>67543</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Звено цепи шасси.SLDPRT]]></path><type>Part</type><quantity>20</quantity><name><![CDATA[STV4СТВ Звено цепи шасси]]></name><status>dtkNoError</status><size>79965</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ шасси Загортач деталь2.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ шасси Загортач деталь2]]></name><status>dtkNoError</status><size>77140</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ шасси Загортач деталь1.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ шасси Загортач деталь1]]></name><status>dtkNoError</status><size>117691</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Звено цепи загортача.SLDPRT]]></path><type>Part</type><quantity>12</quantity><name><![CDATA[STV4СТВ Звено цепи загортача]]></name><status>dtkNoError</status><size>74701</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ сошник.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4СТВ сошник]]></name><status>dtkNoError</status><size>135800</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4wing nut 01_din.sldprt]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4wing nut 01_din]]></name><status>dtkNoError</status><size>501068</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх2 рама дет 3 (ручка).SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4ЧСх2 рама дет 3 (ручка)]]></name><status>dtkNoError</status><size>58406</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4Болт М12 х 120.SLDPRT]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4Болт М12 х 120]]></name><status>dtkNoError</status><size>123180</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4Гайка M12.sldprt]]></path><type>Part</type><quantity>4</quantity><name><![CDATA[STV4Гайка M12]]></name><status>dtkNoError</status><size>277165</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4Шайба М12.SLDPRT]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4Шайба М12]]></name><status>dtkNoError</status><size>81624</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4Шайба широкая М12.SLDPRT]]></path><type>Part</type><quantity>2</quantity><name><![CDATA[STV4Шайба широкая М12]]></name><status>dtkNoError</status><size>100103</size><unit>Millimeters</unit><version></version></component>
+<component><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4сцепка усиленная - дет.1.SLDPRT]]></path><type>Part</type><quantity>1</quantity><name><![CDATA[STV4сцепка усиленная - дет.1]]></name><status>dtkNoError</status><size>95095</size><unit>Millimeters</unit><version></version></component>
 </bill_of_materials>
 <components_info>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ4 Сборка.SLDASM]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ4 Сборка.SLDASM]]></path>
 <name><![CDATA[STV4СТВ4 Сборка]]></name>
 <meta>
 <property><title>NAME</title><value><![CDATA[]]></value><type>TypeFileProperty</type></property>
@@ -247,7 +247,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ4 рама - деталь 1.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ4 рама - деталь 1.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ4 рама - деталь 1]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ4 рама - деталь 1-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -438,7 +438,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ4 рама - деталь 2.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ4 рама - деталь 2.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ4 рама - деталь 2]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ4 рама - деталь 2-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -629,7 +629,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх2 рама дет 2.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх2 рама дет 2.SLDPRT]]></path>
 <name><![CDATA[STV4ЧСх2 рама дет 2]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4ЧСх2 рама дет 2-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -820,7 +820,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ2 вал (2000х12).SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ2 вал (2000х12).SLDPRT]]></path>
 <name><![CDATA[STV4СТВ2 вал (2000х12)]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ2 вал (2000х12)-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -1011,7 +1011,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ4 вал (1900х5).SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ4 вал (1900х5).SLDPRT]]></path>
 <name><![CDATA[STV4СТВ4 вал (1900х5)]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ4 вал (1900х5)-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -1202,7 +1202,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводной механизм сборка (левая).SLDASM]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводной механизм сборка (левая).SLDASM]]></path>
 <name><![CDATA[STV4СТВ приводной механизм сборка (левая)]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -1387,7 +1387,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводной механизм 1 (рама левая).SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводной механизм 1 (рама левая).SLDPRT]]></path>
 <name><![CDATA[STV4СТВ приводной механизм 1 (рама левая)]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4СТВ приводной механизм 1 (рама левая)-1@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -1578,7 +1578,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 приводной механизм 3  (ролик натяжителя).SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 приводной механизм 3  (ролик натяжителя).SLDPRT]]></path>
 <name><![CDATA[STV4ЧСх4 приводной механизм 3  (ролик натяжителя)]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4ЧСх4 приводной механизм 3  (ролик натяжителя)-1@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -1773,7 +1773,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 приводной механизм 2 (кронштейн натяжителя).SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 приводной механизм 2 (кронштейн натяжителя).SLDPRT]]></path>
 <name><![CDATA[STV4ЧСх4 приводной механизм 2 (кронштейн натяжителя)]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4ЧСх4 приводной механизм 2 (кронштейн натяжителя)-1@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -1964,7 +1964,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 приводной механизм 4  (втулка малой звездочки).SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 приводной механизм 4  (втулка малой звездочки).SLDPRT]]></path>
 <name><![CDATA[STV4ЧСх4 приводной механизм 4  (втулка малой звездочки)]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4ЧСх4 приводной механизм 4  (втулка малой звездочки)-1@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -2159,7 +2159,7 @@
 <name><![CDATA[втулка натяжителя^STV4СТВ приводной механизм сборка (левая)]]></name>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 приводной механизм 5  (Вал 120х20).SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 приводной механизм 5  (Вал 120х20).SLDPRT]]></path>
 <name><![CDATA[STV4ЧСх4 приводной механизм 5  (Вал 120х20)]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4ЧСх4 приводной механизм 5  (Вал 120х20)-2@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -2350,7 +2350,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводной механизм 6  (Вал 220х20 со шплинтом).SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводной механизм 6  (Вал 220х20 со шплинтом).SLDPRT]]></path>
 <name><![CDATA[STV4СТВ приводной механизм 6  (Вал 220х20 со шплинтом)]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4СТВ приводной механизм 6  (Вал 220х20 со шплинтом)-2@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -2541,7 +2541,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 цепь 081-1.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 цепь 081-1.SLDPRT]]></path>
 <name><![CDATA[STV4ЧСх4 цепь 081-1]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4ЧСх4 цепь 081-1-1@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -2738,7 +2738,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 цепь 081-2.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 цепь 081-2.SLDPRT]]></path>
 <name><![CDATA[STV4ЧСх4 цепь 081-2]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4ЧСх4 цепь 081-2-1@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -2933,7 +2933,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4lock washer for shafts_din.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4lock washer for shafts_din.sldprt]]></path>
 <name><![CDATA[STV4lock washer for shafts_din]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4lock washer for shafts_din-2@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -3058,7 +3058,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4radial ball bearing_68_skf.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4radial ball bearing_68_skf.sldprt]]></path>
 <name><![CDATA[STV4radial ball bearing_68_skf]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4radial ball bearing_68_skf-6@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -3183,7 +3183,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for bores normal_din.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for bores normal_din.sldprt]]></path>
 <name><![CDATA[STV4circlip for bores normal_din]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4circlip for bores normal_din-1@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -3308,7 +3308,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for bores normal_din.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for bores normal_din.sldprt]]></path>
 <name><![CDATA[STV4circlip for bores normal_din]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4circlip for bores normal_din-1@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -3433,7 +3433,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4radial ball bearing_68_skf.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4radial ball bearing_68_skf.sldprt]]></path>
 <name><![CDATA[STV4radial ball bearing_68_skf]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4radial ball bearing_68_skf-6@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -3558,7 +3558,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex nut gradec_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex nut gradec_iso.sldprt]]></path>
 <name><![CDATA[STV4hex nut gradec_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4hex nut gradec_iso-28@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -3683,7 +3683,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex nut gradec_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex nut gradec_iso.sldprt]]></path>
 <name><![CDATA[STV4hex nut gradec_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4hex nut gradec_iso-28@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -3808,7 +3808,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
 <name><![CDATA[STV4hex screw gradec_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4hex screw gradec_iso-20@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -3933,7 +3933,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
 <name><![CDATA[STV4hex screw gradec_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4hex screw gradec_iso-20@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -4058,7 +4058,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
 <name><![CDATA[STV4hex screw gradec_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4hex screw gradec_iso-20@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -4183,7 +4183,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4plain washer normal grade c_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4plain washer normal grade c_iso.sldprt]]></path>
 <name><![CDATA[STV4plain washer normal grade c_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4plain washer normal grade c_iso-1@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -4308,7 +4308,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 приводной механизм 7  (звездочка двойная1-z36).SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 приводной механизм 7  (звездочка двойная1-z36).SLDPRT]]></path>
 <name><![CDATA[STV4ЧСх4 приводной механизм 7  (звездочка двойная1-z36)]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4ЧСх4 приводной механизм 7  (звездочка двойная1-z36)-1@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -4433,7 +4433,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4split pin_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4split pin_iso.sldprt]]></path>
 <name><![CDATA[STV4split pin_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4split pin_iso-2@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -4558,7 +4558,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ звездочка тройная z26-36-14 с механизмом блокировки.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ звездочка тройная z26-36-14 с механизмом блокировки.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ звездочка тройная z26-36-14 с механизмом блокировки]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4СТВ звездочка тройная z26-36-14 с механизмом блокировки-1@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -4685,7 +4685,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ звездочка тройная z26-36-14 (14я).SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ звездочка тройная z26-36-14 (14я).SLDPRT]]></path>
 <name><![CDATA[STV4СТВ звездочка тройная z26-36-14 (14я)]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4СТВ звездочка тройная z26-36-14 (14я)-1@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -4810,7 +4810,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ звездочка тройная z26-36-14 без механизма блокировки.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ звездочка тройная z26-36-14 без механизма блокировки.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ звездочка тройная z26-36-14 без механизма блокировки]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4СТВ звездочка тройная z26-36-14 без механизма блокировки-1@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -4937,7 +4937,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ звездочка тройная z32 без механизма блокировки.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ звездочка тройная z32 без механизма блокировки.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ звездочка тройная z32 без механизма блокировки]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4СТВ звездочка тройная z32 без механизма блокировки-1@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -5062,7 +5062,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
 <name><![CDATA[STV4hex screw gradec_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4hex screw gradec_iso-20@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -5187,7 +5187,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
 <name><![CDATA[STV4hex screw gradec_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4hex screw gradec_iso-20@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -5312,7 +5312,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Ручка механизма блокировки.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Ручка механизма блокировки.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ Ручка механизма блокировки]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4СТВ Ручка механизма блокировки-1@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -5503,7 +5503,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Рычаг механизма блокировки.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Рычаг механизма блокировки.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ Рычаг механизма блокировки]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4СТВ Рычаг механизма блокировки-2@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -5602,7 +5602,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ пружина натяжителя (левая).SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ пружина натяжителя (левая).SLDPRT]]></path>
 <name><![CDATA[STV4СТВ пружина натяжителя (левая)]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4СТВ пружина натяжителя (левая)-2@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -5703,7 +5703,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводной механизм сборка (правая).SLDASM]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводной механизм сборка (правая).SLDASM]]></path>
 <name><![CDATA[STV4СТВ приводной механизм сборка (правая)]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (правая)-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -5888,7 +5888,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводной механизм 1 (рама правая).SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводной механизм 1 (рама правая).SLDPRT]]></path>
 <name><![CDATA[STV4СТВ приводной механизм 1 (рама правая)]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (правая)-1@stv4СТВ4 Сборка/stv4СТВ приводной механизм 1 (рама правая)-1@stv4СТВ приводной механизм сборка (правая)]]></value><type>TypeProperty</type></property>
@@ -6079,7 +6079,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВприводной механизм 6  (Вал 150х20).SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВприводной механизм 6  (Вал 150х20).SLDPRT]]></path>
 <name><![CDATA[STV4СТВприводной механизм 6  (Вал 150х20)]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (правая)-1@stv4СТВ4 Сборка/stv4СТВприводной механизм 6  (Вал 150х20)-1@stv4СТВ приводной механизм сборка (правая)]]></value><type>TypeProperty</type></property>
@@ -6270,7 +6270,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ кронштейн привода ворошителей сборка.SLDASM]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ кронштейн привода ворошителей сборка.SLDASM]]></path>
 <name><![CDATA[STV4СТВ кронштейн привода ворошителей сборка]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ кронштейн привода ворошителей сборка-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -6457,7 +6457,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ кронштейн привода ворошителей.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ кронштейн привода ворошителей.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ кронштейн привода ворошителей]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ кронштейн привода ворошителей сборка-1@stv4СТВ4 Сборка/stv4СТВ кронштейн привода ворошителей-1@stv4СТВ кронштейн привода ворошителей сборка]]></value><type>TypeProperty</type></property>
@@ -6648,7 +6648,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ вал№1 кронштейна привода ворошителей.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ вал№1 кронштейна привода ворошителей.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ вал№1 кронштейна привода ворошителей]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ кронштейн привода ворошителей сборка-1@stv4СТВ4 Сборка/stv4СТВ вал№1 кронштейна привода ворошителей-1@stv4СТВ кронштейн привода ворошителей сборка]]></value><type>TypeProperty</type></property>
@@ -6841,7 +6841,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ вал№2 кронштейна привода ворошителей.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ вал№2 кронштейна привода ворошителей.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ вал№2 кронштейна привода ворошителей]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ кронштейн привода ворошителей сборка-1@stv4СТВ4 Сборка/stv4СТВ вал№2 кронштейна привода ворошителей-1@stv4СТВ кронштейн привода ворошителей сборка]]></value><type>TypeProperty</type></property>
@@ -7034,7 +7034,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4radial ball bearing_68_skf.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4radial ball bearing_68_skf.sldprt]]></path>
 <name><![CDATA[STV4radial ball bearing_68_skf]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4radial ball bearing_68_skf-6@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -7159,7 +7159,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for bores normal_din.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for bores normal_din.sldprt]]></path>
 <name><![CDATA[STV4circlip for bores normal_din]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4circlip for bores normal_din-1@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -7284,7 +7284,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for shafts normal_din.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for shafts normal_din.sldprt]]></path>
 <name><![CDATA[STV4circlip for shafts normal_din]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ кронштейн привода ворошителей сборка-1@stv4СТВ4 Сборка/stv4circlip for shafts normal_din-1@stv4СТВ кронштейн привода ворошителей сборка]]></value><type>TypeProperty</type></property>
@@ -7409,7 +7409,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ ролик №1 кронштейна привода ворошителей.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ ролик №1 кронштейна привода ворошителей.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ ролик №1 кронштейна привода ворошителей]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ кронштейн привода ворошителей сборка-1@stv4СТВ4 Сборка/stv4СТВ ролик №1 кронштейна привода ворошителей-1@stv4СТВ кронштейн привода ворошителей сборка]]></value><type>TypeProperty</type></property>
@@ -7600,7 +7600,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ ролик №2 кронштейна привода ворошителей.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ ролик №2 кронштейна привода ворошителей.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ ролик №2 кронштейна привода ворошителей]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ кронштейн привода ворошителей сборка-1@stv4СТВ4 Сборка/stv4СТВ ролик №2 кронштейна привода ворошителей-1@stv4СТВ кронштейн привода ворошителей сборка]]></value><type>TypeProperty</type></property>
@@ -7793,7 +7793,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for bores normal_din.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for bores normal_din.sldprt]]></path>
 <name><![CDATA[STV4circlip for bores normal_din]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4circlip for bores normal_din-1@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -7918,7 +7918,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for shafts normal_din.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4circlip for shafts normal_din.sldprt]]></path>
 <name><![CDATA[STV4circlip for shafts normal_din]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ кронштейн привода ворошителей сборка-1@stv4СТВ4 Сборка/stv4circlip for shafts normal_din-1@stv4СТВ кронштейн привода ворошителей сборка]]></value><type>TypeProperty</type></property>
@@ -8043,7 +8043,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4radial ball bearing_68_skf.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4radial ball bearing_68_skf.sldprt]]></path>
 <name><![CDATA[STV4radial ball bearing_68_skf]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4radial ball bearing_68_skf-6@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -8168,7 +8168,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
 <name><![CDATA[STV4hex screw gradec_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4hex screw gradec_iso-20@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -8297,7 +8297,7 @@
 <name><![CDATA[Ремень1-6^STV4СТВ кронштейн привода ворошителей сборка]]></name>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4pan head cross recess screw_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4pan head cross recess screw_iso.sldprt]]></path>
 <name><![CDATA[STV4pan head cross recess screw_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ кронштейн привода ворошителей сборка-1@stv4СТВ4 Сборка/stv4pan head cross recess screw_iso-2@stv4СТВ кронштейн привода ворошителей сборка]]></value><type>TypeProperty</type></property>
@@ -8422,7 +8422,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
 <name><![CDATA[STV4hex screw gradec_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4hex screw gradec_iso-20@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -8547,7 +8547,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 грунтозацеп  (левый).SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 грунтозацеп  (левый).SLDPRT]]></path>
 <name><![CDATA[STV4ЧСх4 грунтозацеп  (левый)]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4ЧСх4 грунтозацеп  (левый)-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -8742,7 +8742,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 грунтозацеп  (правый).SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх4 грунтозацеп  (правый).SLDPRT]]></path>
 <name><![CDATA[STV4ЧСх4 грунтозацеп  (правый)]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4ЧСх4 грунтозацеп  (правый)-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -8937,7 +8937,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
 <name><![CDATA[STV4hex screw gradec_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4hex screw gradec_iso-20@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -9062,7 +9062,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4torque nut 01_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4torque nut 01_iso.sldprt]]></path>
 <name><![CDATA[STV4torque nut 01_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4torque nut 01_iso-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -9187,7 +9187,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ бункер сборка.SLDASM]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ бункер сборка.SLDASM]]></path>
 <name><![CDATA[STV4СТВ бункер сборка]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ бункер сборка-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -9374,7 +9374,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ  бункер.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ  бункер.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ  бункер]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ бункер сборка-4@stv4СТВ4 Сборка/stv4СТВ  бункер-1@stv4СТВ бункер сборка]]></value><type>TypeProperty</type></property>
@@ -9567,7 +9567,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ  бункер пластина к корпусу.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ  бункер пластина к корпусу.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ  бункер пластина к корпусу]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ бункер сборка-4@stv4СТВ4 Сборка/stv4СТВ  бункер пластина к корпусу-1@stv4СТВ бункер сборка]]></value><type>TypeProperty</type></property>
@@ -9760,7 +9760,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4pan head cross recess screw_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4pan head cross recess screw_iso.sldprt]]></path>
 <name><![CDATA[STV4pan head cross recess screw_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ кронштейн привода ворошителей сборка-1@stv4СТВ4 Сборка/stv4pan head cross recess screw_iso-2@stv4СТВ кронштейн привода ворошителей сборка]]></value><type>TypeProperty</type></property>
@@ -9885,7 +9885,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ высевной барабан 2.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ высевной барабан 2.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ высевной барабан 2]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ бункер сборка-4@stv4СТВ4 Сборка/stv4СТВ высевной барабан 2-1@stv4СТВ бункер сборка]]></value><type>TypeProperty</type></property>
@@ -10078,7 +10078,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ прокладка к барабану2.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ прокладка к барабану2.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ прокладка к барабану2]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ бункер сборка-4@stv4СТВ4 Сборка/stv4СТВ прокладка к барабану2-1@stv4СТВ бункер сборка]]></value><type>TypeProperty</type></property>
@@ -10271,7 +10271,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ нож-сбрасыватель.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ нож-сбрасыватель.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ нож-сбрасыватель]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ бункер сборка-4@stv4СТВ4 Сборка/stv4СТВ нож-сбрасыватель-1@stv4СТВ бункер сборка]]></value><type>TypeProperty</type></property>
@@ -10464,7 +10464,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ  крышка бункера.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ  крышка бункера.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ  крышка бункера]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ бункер сборка-4@stv4СТВ4 Сборка/stv4СТВ  крышка бункера-1@stv4СТВ бункер сборка]]></value><type>TypeProperty</type></property>
@@ -10657,7 +10657,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ  бункер (прокладка резиновая).SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ  бункер (прокладка резиновая).SLDPRT]]></path>
 <name><![CDATA[STV4СТВ  бункер (прокладка резиновая)]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ бункер сборка-4@stv4СТВ4 Сборка/stv4СТВ  бункер (прокладка резиновая)-1@stv4СТВ бункер сборка]]></value><type>TypeProperty</type></property>
@@ -10850,7 +10850,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ бункер кисточка.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ бункер кисточка.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ бункер кисточка]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ бункер сборка-4@stv4СТВ4 Сборка/stv4СТВ бункер кисточка-1@stv4СТВ бункер сборка]]></value><type>TypeProperty</type></property>
@@ -11043,7 +11043,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
 <name><![CDATA[STV4hex screw gradec_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4hex screw gradec_iso-20@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -11168,7 +11168,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4plain washer normal grade c_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4plain washer normal grade c_iso.sldprt]]></path>
 <name><![CDATA[STV4plain washer normal grade c_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4plain washer normal grade c_iso-1@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -11293,7 +11293,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4wing nut 01_din.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4wing nut 01_din.sldprt]]></path>
 <name><![CDATA[STV4wing nut 01_din]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ бункер сборка-4@stv4СТВ4 Сборка/stv4wing nut 01_din-1@stv4СТВ бункер сборка]]></value><type>TypeProperty</type></property>
@@ -11418,7 +11418,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводная втулка.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ приводная втулка.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ приводная втулка]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ бункер сборка-4@stv4СТВ4 Сборка/stv4СТВ приводная втулка-1@stv4СТВ бункер сборка]]></value><type>TypeProperty</type></property>
@@ -11609,7 +11609,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ втулка ограничитель.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ втулка ограничитель.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ втулка ограничитель]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ бункер сборка-4@stv4СТВ4 Сборка/stv4СТВ втулка ограничитель-1@stv4СТВ бункер сборка]]></value><type>TypeProperty</type></property>
@@ -11802,7 +11802,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
 <name><![CDATA[STV4hex screw gradec_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4hex screw gradec_iso-20@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -11927,7 +11927,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ  ворошитель семян.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ  ворошитель семян.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ  ворошитель семян]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ бункер сборка-4@stv4СТВ4 Сборка/stv4СТВ  ворошитель семян-1@stv4СТВ бункер сборка]]></value><type>TypeProperty</type></property>
@@ -12120,7 +12120,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ трубка рессоры шасси.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ трубка рессоры шасси.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ трубка рессоры шасси]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ бункер сборка-4@stv4СТВ4 Сборка/stv4СТВ трубка рессоры шасси-1@stv4СТВ бункер сборка]]></value><type>TypeProperty</type></property>
@@ -12313,7 +12313,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Шасси сборка.SLDASM]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Шасси сборка.SLDASM]]></path>
 <name><![CDATA[STV4СТВ Шасси сборка]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ Шасси сборка-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -12498,7 +12498,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ деталь шасси №1.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ деталь шасси №1.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ деталь шасси №1]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ Шасси сборка-4@stv4СТВ4 Сборка/stv4СТВ деталь шасси №1-1@stv4СТВ Шасси сборка]]></value><type>TypeProperty</type></property>
@@ -12691,7 +12691,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ деталь шасси №2.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ деталь шасси №2.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ деталь шасси №2]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ Шасси сборка-4@stv4СТВ4 Сборка/stv4СТВ деталь шасси №2-1@stv4СТВ Шасси сборка]]></value><type>TypeProperty</type></property>
@@ -12884,7 +12884,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ деталь шасси №3.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ деталь шасси №3.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ деталь шасси №3]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ Шасси сборка-4@stv4СТВ4 Сборка/stv4СТВ деталь шасси №3-1@stv4СТВ Шасси сборка]]></value><type>TypeProperty</type></property>
@@ -13075,7 +13075,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Вал шасси.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Вал шасси.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ Вал шасси]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ Шасси сборка-4@stv4СТВ4 Сборка/stv4СТВ Вал шасси-1@stv4СТВ Шасси сборка]]></value><type>TypeProperty</type></property>
@@ -13268,7 +13268,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ колесо.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ колесо.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ колесо]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ Шасси сборка-4@stv4СТВ4 Сборка/stv4СТВ колесо-1@stv4СТВ Шасси сборка]]></value><type>TypeProperty</type></property>
@@ -13461,7 +13461,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ резиновая заглушка.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ резиновая заглушка.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ резиновая заглушка]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ Шасси сборка-4@stv4СТВ4 Сборка/stv4СТВ резиновая заглушка-1@stv4СТВ Шасси сборка]]></value><type>TypeProperty</type></property>
@@ -13654,7 +13654,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4plain washer normal grade c_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4plain washer normal grade c_iso.sldprt]]></path>
 <name><![CDATA[STV4plain washer normal grade c_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4plain washer normal grade c_iso-1@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -13779,7 +13779,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4lock washer for shafts_din.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4lock washer for shafts_din.sldprt]]></path>
 <name><![CDATA[STV4lock washer for shafts_din]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4lock washer for shafts_din-2@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -13904,7 +13904,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4torque nut 01_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4torque nut 01_iso.sldprt]]></path>
 <name><![CDATA[STV4torque nut 01_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4torque nut 01_iso-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -14029,7 +14029,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4torque nut 01_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4torque nut 01_iso.sldprt]]></path>
 <name><![CDATA[STV4torque nut 01_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4torque nut 01_iso-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -14154,7 +14154,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex screw gradec_iso.sldprt]]></path>
 <name><![CDATA[STV4hex screw gradec_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4hex screw gradec_iso-20@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -14279,7 +14279,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex nut gradec_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex nut gradec_iso.sldprt]]></path>
 <name><![CDATA[STV4hex nut gradec_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4hex nut gradec_iso-28@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -14404,7 +14404,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex nut gradec_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4hex nut gradec_iso.sldprt]]></path>
 <name><![CDATA[STV4hex nut gradec_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4hex nut gradec_iso-28@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -14529,7 +14529,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4plain washer normal grade c_iso.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4plain washer normal grade c_iso.sldprt]]></path>
 <name><![CDATA[STV4plain washer normal grade c_iso]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ приводной механизм сборка (левая)-1@stv4СТВ4 Сборка/stv4plain washer normal grade c_iso-1@stv4СТВ приводной механизм сборка (левая)]]></value><type>TypeProperty</type></property>
@@ -14654,7 +14654,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ шасси пружина.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ шасси пружина.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ шасси пружина]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ Шасси сборка-4@stv4СТВ4 Сборка/stv4СТВ шасси пружина-1@stv4СТВ Шасси сборка]]></value><type>TypeProperty</type></property>
@@ -14753,7 +14753,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Звено цепи шасси.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Звено цепи шасси.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ Звено цепи шасси]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ Шасси сборка-4@stv4СТВ4 Сборка/stv4СТВ Звено цепи шасси-1@stv4СТВ Шасси сборка]]></value><type>TypeProperty</type></property>
@@ -14854,7 +14854,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ шасси Загортач деталь2.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ шасси Загортач деталь2.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ шасси Загортач деталь2]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ Шасси сборка-4@stv4СТВ4 Сборка/stv4СТВ шасси Загортач деталь2-1@stv4СТВ Шасси сборка]]></value><type>TypeProperty</type></property>
@@ -15047,7 +15047,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ шасси Загортач деталь1.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ шасси Загортач деталь1.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ шасси Загортач деталь1]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ Шасси сборка-4@stv4СТВ4 Сборка/stv4СТВ шасси Загортач деталь1-1@stv4СТВ Шасси сборка]]></value><type>TypeProperty</type></property>
@@ -15240,7 +15240,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Звено цепи загортача.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ Звено цепи загортача.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ Звено цепи загортача]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ Шасси сборка-4@stv4СТВ4 Сборка/stv4СТВ Звено цепи загортача-1@stv4СТВ Шасси сборка]]></value><type>TypeProperty</type></property>
@@ -15341,7 +15341,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ сошник.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4СТВ сошник.SLDPRT]]></path>
 <name><![CDATA[STV4СТВ сошник]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ Шасси сборка-4@stv4СТВ4 Сборка/stv4СТВ сошник-1@stv4СТВ Шасси сборка]]></value><type>TypeProperty</type></property>
@@ -15534,7 +15534,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4wing nut 01_din.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4wing nut 01_din.sldprt]]></path>
 <name><![CDATA[STV4wing nut 01_din]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4СТВ бункер сборка-4@stv4СТВ4 Сборка/stv4wing nut 01_din-1@stv4СТВ бункер сборка]]></value><type>TypeProperty</type></property>
@@ -15659,7 +15659,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх2 рама дет 3 (ручка).SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4ЧСх2 рама дет 3 (ручка).SLDPRT]]></path>
 <name><![CDATA[STV4ЧСх2 рама дет 3 (ручка)]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4ЧСх2 рама дет 3 (ручка)-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -15850,7 +15850,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4Болт М12 х 120.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4Болт М12 х 120.SLDPRT]]></path>
 <name><![CDATA[STV4Болт М12 х 120]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4Болт М12 х 120-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -15977,7 +15977,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4Гайка M12.sldprt]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4Гайка M12.sldprt]]></path>
 <name><![CDATA[STV4Гайка M12]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4Гайка m12-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -16104,7 +16104,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4Шайба М12.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4Шайба М12.SLDPRT]]></path>
 <name><![CDATA[STV4Шайба М12]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4Шайба М12-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -16231,7 +16231,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4Шайба широкая М12.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4Шайба широкая М12.SLDPRT]]></path>
 <name><![CDATA[STV4Шайба широкая М12]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4Шайба широкая М12-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -16358,7 +16358,7 @@
 </meta>
 </component>
 <component>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4сцепка усиленная - дет.1.SLDPRT]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STV4\STV4сцепка усиленная - дет.1.SLDPRT]]></path>
 <name><![CDATA[STV4сцепка усиленная - дет.1]]></name>
 <meta>
 <property><title>#swReference</title><value><![CDATA[stv4сцепка усиленная - дет.1-1@stv4СТВ4 Сборка]]></value><type>TypeProperty</type></property>
@@ -16554,11 +16554,11 @@
 </component>
 </components_info>
 <output_files_written>
-<file><path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STEP\STV4СТВ4 Сборка.stp]]></path><size>7494447</size></file>
+<file><path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STEP\STV4СТВ4 Сборка.stp]]></path><size>7494447</size></file>
 </output_files_written>
 <inventory_writer>
 <output_file>
-<path><![CDATA[C:\Users\Admin\Desktop\may nong nghiep\sowing-machine-1.snapshot.5\STEP\STV4СТВ4 Сборка.stp]]></path>
+<path><![CDATA[D:\My-job\may nong nghiep\sowing-machine-1.snapshot.5\STEP\STV4СТВ4 Сборка.stp]]></path>
 <synthetic_inventory>
 <entity><count>1</count><type>File</type></entity>
 <entity><count>105</count><type>Product</type></entity>
@@ -16698,8 +16698,8 @@ in ..\datakit2000\Sources\xr\sw\swr_base_generic.cpp - swr::Swr_GenericValue::se
 </section>
 </configuration>
 <Conversion>
-<Start>  09:20:30</Start>
-<End>  09:31:58</End>
-<Duration>11mn 28sec (688 sec)</Duration>
+<Start>  20:07:59</Start>
+<End>  20:14:36</End>
+<Duration> 6mn 37sec (397 sec)</Duration>
 </Conversion>
 </Log>
